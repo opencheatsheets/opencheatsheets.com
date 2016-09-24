@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Boilerplate 2</title>
+    <link>https://opencheatsheets.com/</link>
+    <description>Recent content on Hugo Boilerplate 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://opencheatsheets.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-10/</link>
+      <pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-10/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:d784ddd64ca23d669abfa5315621a100&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-9/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-9/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:2af4a04d51133ffe9cf1ac0f25d04bbc&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-8/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-8/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:b0c0421a7a6b7d45ebb17918722953bf&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-7/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-7/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:8cb162718dced1fdc45be664c5c495f7&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-6/</link>
+      <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-6/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:7fa6942041bf7998fb5e9718c107ffce&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-5/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-5/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:f5d17beda45cfda77dda2d1ea747d19f&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-4/</link>
+      <pubDate>Sat, 04 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-4/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:6f92190a51a60ede484cdcd213b6c37b&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-3/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-3/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:5aec5c9dea273f1934de6441fbe57f88&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-2/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-2/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article:6dc7da34eba4551aad27e4d5b006c558&#34;&gt;Test Article&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://opencheatsheets.com/archives/test-article-1/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opencheatsheets.com/archives/test-article-1/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-article-hahaha:3c8ec8343e325e57e1bc860b4cab7efa&#34;&gt;Test Article hahaha&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
